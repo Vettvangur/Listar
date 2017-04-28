@@ -1,0 +1,25 @@
+export default {
+    head: 'Karlmannsnöfn2',
+    items: [
+        'Jón Ólafsson2',
+        'Gísli Helgason',
+        'Bjarni Jóhannsson',
+        'Óskar Davíðsson',
+        'Gunnar Örn Einarsson',
+        'Alexander Már Arnarsson',
+        'Guðmundur Ingi Olavsson',
+        'Kristján Þór Jónsson',
+        'Andri Már Ólafsson',
+        'Ólafur Halldórsson',
+        'Ragnar Gíslason Long',
+        'Ásgeir Guðrúnar Ragnarsson',
+        'Jón Þór Sigurðsson',
+        'Arnar Arnarsson',
+        'Bjarni Arnarson',
+        'Þorsteinn Magnússon',
+        'Aron Ingi Árnason',
+        'Davíð Þór Magnússon',
+        'Kristinn Örn Árnason',
+        'Sveinn Már Gíslason',
+    ]
+};

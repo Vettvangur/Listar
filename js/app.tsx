@@ -2,7 +2,16 @@
 
 import * as React     from 'react';
 import * as ReactDOM  from 'react-dom';
-debugger
+
 import ListComponent  from 'ListComponent';
 
-ReactDOM.render(<ListComponent heading="Head" items={['a', 'b','c']}/>, document.getElementById('root'));
+import data           from 'data';
+
+const ListContainer = () => 
+    <div>
+        {data.map(obj => 
+           <ListComponent key={obj.head} {...obj} />
+        )}
+    </div>
+
+ReactDOM.render(<ListContainer/>, document.getElementById('root'));
