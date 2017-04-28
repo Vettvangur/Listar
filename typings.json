@@ -1,0 +1,9 @@
+{
+  "globalDependencies": {
+    "node": "registry:env/node"
+  },
+  "dependencies": {
+    "react": "registry:npm/react",
+    "react-dom": "registry:npm/react-dom"
+  }
+}
