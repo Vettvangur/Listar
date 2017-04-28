@@ -8,7 +8,7 @@ export default {
         "Alexander Már Arnarsson",
         "Anna Lilja Schram",
         "Kristín Helga Magnúsdóttir",
-        "Sigrún Guða Björnsdóttir",
+        "Sigrún Gyða Björnsdóttir",
         "Jóhanna Björk Arnardóttir",
         "Aron Ingi Árnason",
         "Kolbrún Ásta Bjarnadóttir",

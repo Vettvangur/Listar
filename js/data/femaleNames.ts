@@ -18,7 +18,7 @@ export default {
         "Júlía Stefánsdóttir",
         "Hildur Ása Ágústsdóttir",
         "Berglind Arna Pétursdóttir",
-        "Sigrún Guða Björnsdóttir",
+        "Sigrún Gyða Björnsdóttir",
         "Eva Katrín Ragnarsdóttir",
         "Ásta Jóhannsdóttir"
     ]
