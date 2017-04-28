@@ -11,6 +11,7 @@ interface Props {
 
 const ListComponent = ({ heading, items}: Props) => 
     <article>
+        <h1>{heading}</h1>
         <ul>
             {items.map(item => <li key={item}>{item}</li>)}
         </ul>
